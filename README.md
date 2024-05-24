@@ -53,7 +53,7 @@ You can install these dependencies using pip:
 pip install -r requirements.txt
 ```
 
-Put the pdfs in the pdfs folder and you gpt api key in .env file
+Put the pdfs in the pdfs folder and you openai api key in .env file
 
 ## To run the code 
 
